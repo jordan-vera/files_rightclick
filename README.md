@@ -1,0 +1,2 @@
+# files_rightclick
+Esta aplicación permite a los usuarios y desarrolladores tener un menú de clic derecho. Simplemente use el objeto RightClick para crear rápidamente menús contextuales. La aplicación Archivos ya muestra el menú de acciones al hacer clic derecho en archivos y carpetas. Se puede acceder al menú de clic derecho normal del navegador en áreas que no tienen un controlador de clic derecho (como el encabezado o la navegación izquierda) o en cualquier lugar simplemente presionando Shiftantes de hacer clic derecho.
